@@ -1,5 +1,5 @@
 # BrokenMarkdownRenderingDemo
-Repo for demonstration of broken link rendering. See #1
+Repo for demonstration of broken link rendering. See https://github.com/drstevens/BrokenMarkdownRenderingDemo/issues/1
 
 Add some things
 
